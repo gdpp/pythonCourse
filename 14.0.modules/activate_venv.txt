@@ -1,0 +1,2 @@
+Create Venv command: python -m venv .env
+Activate venv command: cd .env/Scripts . activate
