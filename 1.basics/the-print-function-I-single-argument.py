@@ -1,7 +1,0 @@
-print('I love pizza')
-print('I also love beer')
-print("We're working with python")
-print(5)
-print(3 + 4)
-print(10 - 8)
-print("3" + "4")
